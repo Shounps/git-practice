@@ -34,3 +34,5 @@ For me I think it would have to be Python. It was the first programming language
 *I'm not sure I could pick a favorite language, but I recently learned about AutoIt, a simple high-level language that automates Windows processes, and was pleased by it. I have not done anything useful with it yet, I just created a program that makes it seem like the computer is haunted to make my sisters laugh.*
 
 I like Python because it is readable, beginner-friendly, and great for automation and data work.
+
+Personally for me I would say Python just because of its intuitive nature and it was my first language. 
