@@ -4,9 +4,9 @@ This repository exists to give you a space to practice various ways of using Git
 
 Add a link to the file you added in `userfiles` to the list below.
 
-Let there be conflicts!
-
 ## Index of `userfiles` directory
+
+[smill841](userfiles/smill841.md)
 
 [daraakitoyemru](userfiles/daraakitoyemru.md)
 
